@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(20, 220, 53);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.3s all;
+}
